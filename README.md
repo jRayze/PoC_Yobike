@@ -10,6 +10,8 @@ Download and install the Decentraland CLI by running the following command:
 
 ```bash
 npm i -g decentraland
+
+npm install
 ```
 
 **Previewing the scene**
